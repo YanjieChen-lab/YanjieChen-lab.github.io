@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yanjie Chen"
+  name             : #"Yanjie Chen"
   avatar           : "Dr_Yanjie_Chen_2023.jpg"
   bio              : "Trying to look for interesting matters in robotics"
   location         : #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AITQ2HIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :  chenyanjiehnu@gmail.com, chenyanjie@fzu.edu.cn
+  email            :  #chenyanjiehnu@gmail.com, chenyanjie@fzu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
