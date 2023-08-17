@@ -78,7 +78,7 @@ Academic Review
 
 Supervision
 ======
-* Postgraduate Students
+* Master Students
   * Xincheng Liu (as Primary Supervisor), Mechanical Engineering, 2022
   * Junwei Fan (as Primary Supervisor), Mechanical Engineering, 2022
   * Mengzhao Shen (as Primary Supervisor), Mechatronics, 2022
@@ -100,17 +100,17 @@ Supervision
 
 * Undergraduate Students
   * University-level SRTP, "Intelligent coverage motion planning for complex surfaces", Leader: Jiahao Zeng, 2022
-  * National SRTP, "PANGO-formation planning software for multi-UAV aerial media", Leader: Minjun Chen, 2020 
+  * National SRTP, "PANGU-formation planning software for multi-UAV aerial media", Leader: Minjun Chen, 2020 
   * Provincial SRTP, "Design and visual servoing of a bio-inspired manipulator", Leader: Tiancai Chen, 2019
   * University-level SRTP, "Multi-robot collaborative exploration based on sampling motion planning", Leader: Xiaoying Ye, 2019
   * The 2nd China University Intelligent Robot Creative Competition, The first award, Leader: Tiancai Chen, 2019  
   * The 2nd China University Intelligent Robot Creative Competition, The third award, Leader: Jie Wen, 2019 
   * The 2nd China University Intelligent Robot Creative Competition, shortlisted award, Leader: Weikun Xiao, 2019 
-  * China Intelligent Robot Fighting Competition", The first prize, Leader: Tiancai Chen, 2019
-  * China Intelligent Robot Fighting Competition", The third prize, Leader: Xuexin Xie, 2019
-  * International Underwater Robot Contest", The first prize, Leader: Tiancai Huang, 2018
-  * International Underwater Robot Contest", The third prize, Leader: Heyang Yang, 2018 
-  * International Underwater Robot Contest", The third prize, Leader: Teng Li, 2018
+  * China Intelligent Robot Fighting Competition, The first prize, Leader: Tiancai Chen, 2019
+  * China Intelligent Robot Fighting Competition, The third prize, Leader: Xuexin Xie, 2019
+  * International Underwater Robot Contest, The first prize, Leader: Tiancai Huang, 2018
+  * International Underwater Robot Contest, The third prize, Leader: Heyang Yang, 2018 
+  * International Underwater Robot Contest, The third prize, Leader: Teng Li, 2018
 
 
 
