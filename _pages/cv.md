@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Yanjie Chen"
+#title: "Yanjie Chen"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,19 +11,19 @@ redirect_from:
 
 Education Background
 ======
-* Ph.D in Control Science and Engineering, Hunan University, China, Sep.2013-Oct.2017
-* M.S. in Control Engineering, Hunan University, China, Sep.2011-Jun.2013
-* B.S. in Electrical Engineering and Its Automation, Southwest Jiaotong University, China, Sep.2007-Jun.2011
+* Ph.D in Control Science and Engineering, Hunan University, China, Sep. 2013 - Oct. 2017
+* M.S. in Control Engineering, Hunan University, China, Sep. 2011-Jun. 2013
+* B.S. in Electrical Engineering and Its Automation, Southwest Jiaotong University, China, Sep. 2007 - Jun. 2011
 
 Work Experience
 ======
-* Newton Research Fellow, Aberystwyth University, UK, Dec.2022-now
-* Professor, Fuzhou University, China, Mar.2023-now
-* Associate Professor, Fuzhou University, China, Dec.2021-Feb.2023
-* Assistant Professor, Fuzhou University, China, Dec.2017-Nov.2021
-* Scientist, National Engineering Laboratory of Robot Visual Perception and Control Technology, China, Jul.2023-now
-* Associate Scientist, National Engineering Laboratory of Robot Visual Perception and Control Technology, China, Jul.2020-Jun.2023
-* Research Assistant, National University of Singapore, Singapore, Oct.2014-Oct.2015
+* Newton Research Fellow, Aberystwyth University, UK, Dec. 2022 - now
+* Professor, Fuzhou University, China, Mar. 2023 - now
+* Associate Professor, Fuzhou University, China, Dec. 2021 - Feb. 2023
+* Assistant Professor, Fuzhou University, China, Dec. 2017 - Nov. 2021
+* Scientist, National Engineering Laboratory of Robot Visual Perception and Control Technology, China, Jul. 2023 - now
+* Associate Scientist, National Engineering Laboratory of Robot Visual Perception and Control Technology, China, Jul. 2020 - Jun. 2023
+* Research Assistant, National University of Singapore, Singapore, Oct. 2014 - Oct. 2015
 
 Research Interests
 ======
@@ -33,9 +33,15 @@ Research Interests
 * Intelligent Control
 * Optimization
 
-Publications
+Honors 
 ======
-I have published 1 monograph, published more than 50 SCI/EI indexed papers, and authorized 24 patents.
+* Newton International Fellow, The Royal Society, UK, 2022
+* Supervisor of Excellent Master's Thesis (Mr. Jiacheng Liang), Chinese Association of Automation, China, 2022
+* Scientific Special Commissioner, Fujian Province, China, 2021-2023
+* High-level Talents of Fujian Province (Level C), China, 2023
+* Member of the National Standardization Committee for Rotating Electric Machines, China
+* Member of the Youth Academic Committee of Chinese Association of Automation, China
+* Qishan Scholar, Fuzhou University, China, 2023
   
 Academic Review
 ======
@@ -69,9 +75,6 @@ Academic Review
   * Chinese Control Conference (CCC)
   * Chinese Automation Conference (CAC)
   * International Conference on Unmanned Systems (ICUS).
-
-
-
 
 Supervision
 ======
@@ -109,15 +112,5 @@ Supervision
   * International Underwater Robot Contest", The third prize, Leader: Heyang Yang, 2018 
   * International Underwater Robot Contest", The third prize, Leader: Teng Li, 2018
 
- 
-Honors 
-======
-* Newton International Fellow, The Royal Society, UK, 2022
-* Supervisor of Excellent Master's Thesis (Mr. Jiacheng Liang), Chinese Association of Automation, China, 2022
-* Scientific Special Commissioner, Fujian Province, China, 2021-2023
-* High-level Talents of Fujian Province (Level C), China, 2023
-* Member of the National Standardization Committee for Rotating Electric Machines, China
-* Member of the Youth Academic Committee of Chinese Association of Automation, China
-* Qishan Scholar, Fuzhou University, China, 2023
 
 
