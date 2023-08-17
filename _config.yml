@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dr. Yanjie Chen"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Yanjie Chen"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -85,9 +85,9 @@ author:
   bio              : "Trying to look for interesting matters in robotics"
   location         : #"Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AITQ2HIAAAAJ&view_op=list_works&sortby=pubdate"
-  email            :
+  email            :  "chenyanjiehnu@gmail.com, chenyanjie@fzu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
