@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=AITQ2HIAAAAJ&view_op=list_works&sortby=pubdate"
   email            :  #chenyanjiehnu@gmail.com, chenyanjie@fzu.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "0000-0001-9750-9177"
+  orcid            : #"0000-0001-9750-9177"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
