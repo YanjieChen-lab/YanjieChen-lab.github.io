@@ -8,10 +8,6 @@ date: 2014-01-01
 location: "City, Country"-->
 ---
 
-<! --Supervision
-======
-* Master Students-->
-  
   * Xincheng Liu (as Primary Supervisor), Mechanical Engineering, 2022
   * Junwei Fan (as Primary Supervisor), Mechanical Engineering, 2022
   * Mengzhao Shen (as Primary Supervisor), Mechatronics, 2022
