@@ -1,13 +1,12 @@
 ---
 title: "Master Students"
-<! -- collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"-->
+collection: teaching
+type: ""
+permalink: 
+venue: ""
+date: 
+location: ""
 ---
-
   * Xincheng Liu (as Primary Supervisor), Mechanical Engineering, 2022
   * Junwei Fan (as Primary Supervisor), Mechanical Engineering, 2022
   * Mengzhao Shen (as Primary Supervisor), Mechatronics, 2022
