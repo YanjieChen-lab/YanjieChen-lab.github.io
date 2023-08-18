@@ -1,6 +1,6 @@
 ---
 title: "Master Students"
-collection: teaching
+collection: 
 type: ""
 permalink: 
 venue: ""
